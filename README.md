@@ -2,7 +2,7 @@
 
 ## 🔥 Introdução
 Um projeto de to-do-list que permite aos usuários criar listas de tarefas ou
-atividades a serem realizadas. Esse projeto foi feito para praticar as funcionalidades
+atividades a serem realizadas, marcá-las quando completas e remover se quiser. Esse projeto foi feito para praticar as funcionalidades
 do React, TypeScript, e Tailwind.
 
 ## 📦 Tecnologias usadas:
